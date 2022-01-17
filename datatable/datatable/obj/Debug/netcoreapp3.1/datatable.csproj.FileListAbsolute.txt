@@ -1,0 +1,13 @@
+C:\Users\91852\source\repos\datatable\datatable\bin\Debug\netcoreapp3.1\datatable.exe
+C:\Users\91852\source\repos\datatable\datatable\bin\Debug\netcoreapp3.1\datatable.deps.json
+C:\Users\91852\source\repos\datatable\datatable\bin\Debug\netcoreapp3.1\datatable.runtimeconfig.json
+C:\Users\91852\source\repos\datatable\datatable\bin\Debug\netcoreapp3.1\datatable.runtimeconfig.dev.json
+C:\Users\91852\source\repos\datatable\datatable\bin\Debug\netcoreapp3.1\datatable.dll
+C:\Users\91852\source\repos\datatable\datatable\bin\Debug\netcoreapp3.1\datatable.pdb
+C:\Users\91852\source\repos\datatable\datatable\obj\Debug\netcoreapp3.1\datatable.csprojAssemblyReference.cache
+C:\Users\91852\source\repos\datatable\datatable\obj\Debug\netcoreapp3.1\datatable.AssemblyInfoInputs.cache
+C:\Users\91852\source\repos\datatable\datatable\obj\Debug\netcoreapp3.1\datatable.AssemblyInfo.cs
+C:\Users\91852\source\repos\datatable\datatable\obj\Debug\netcoreapp3.1\datatable.csproj.CoreCompileInputs.cache
+C:\Users\91852\source\repos\datatable\datatable\obj\Debug\netcoreapp3.1\datatable.dll
+C:\Users\91852\source\repos\datatable\datatable\obj\Debug\netcoreapp3.1\datatable.pdb
+C:\Users\91852\source\repos\datatable\datatable\obj\Debug\netcoreapp3.1\datatable.genruntimeconfig.cache

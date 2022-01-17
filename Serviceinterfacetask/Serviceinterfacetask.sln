@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serviceinterfacetask", "Serviceinterfacetask\Serviceinterfacetask.csproj", "{05F53D53-3155-48AF-8093-D48F0A432F61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05F53D53-3155-48AF-8093-D48F0A432F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F53D53-3155-48AF-8093-D48F0A432F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F53D53-3155-48AF-8093-D48F0A432F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F53D53-3155-48AF-8093-D48F0A432F61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D43B9BF-189A-4D82-AD2D-1A1D6B235F86}
+	EndGlobalSection
+EndGlobal

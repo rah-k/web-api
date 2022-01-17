@@ -1,0 +1,14 @@
+some introduction 
+pre requites for svelte
+application creation
+folder explain
+elements
+some example like H2 tag para tag like that 
+input & bind
+each loop
+inline event handler 
+conditions
+component
+props
+slot
+form 

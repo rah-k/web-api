@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "309f59dc-63d8-4c2b-9a62-1c319eac9533": {
+      "ProjectGuid": "309f59dc-63d8-4c2b-9a62-1c319eac9533",
+      "DisplayName": "HospitalAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

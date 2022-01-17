@@ -12,8 +12,6 @@ C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp
 C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\EmployeeDetails.csproj.CoreCompileInputs.cache
 C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\EmployeeDetails.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeDetails.StaticWebAssets.Manifest.cache
-C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeDetails.StaticWebAssets.xml
-C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeeDetails.styles.css
 C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\EmployeeDetails.RazorTargetAssemblyInfo.cache
 C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\EmployeeDetails.dll
 C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\EmployeeDetails.pdb
@@ -64,3 +62,5 @@ C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp
 C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp3.1\EmployeeDetails.StaticWebAssets.xml
+C:\Users\91852\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\EmployeeDetails.GeneratedMSBuildEditorConfig.editorconfig
